@@ -1,0 +1,75 @@
+.mainsection{
+    display: flex;
+    margin-left: 150px;
+}
+.second{
+    flex: auto;
+}
+.third{
+    flex:auto;
+}
+/*above styles are applied to side bar of my portfolio*/
+
+/*style for my home page*/
+/*style for my 2nd flex**/
+.mypicone{
+    margin-top: 30px;
+    margin-left: 70px;
+    width: 500px;
+    border-radius: 50px;
+}
+
+
+/*style for 3rd flex*/
+.emoji{
+    height: 25px;
+
+}
+.intro{
+    font-size: 20px;
+    font-weight: 200;
+    font-family: cursive;
+    margin-left: 50px;
+    margin-top: 200px;
+}
+.mypic{
+    height: 70px;
+    border-radius: 35px;
+}
+.main-intro{
+    margin-left: 70px;
+    font-size: 70px;    
+}
+.basics{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    margin-left: 70px;
+    margin-top: 10px;
+  }
+  .download-button:hover {
+    background-color: black;
+    color: white;
+  }
+
+  .download-button i {
+    margin-right: 5px;
+  }
+  .develop{
+    margin-left: 50px;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 600;
+    
+  }

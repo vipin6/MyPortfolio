@@ -1,0 +1,159 @@
+.about {
+    padding: 20px;
+    background-color: #f8fafd;
+  }
+  
+  .first-row {
+    margin-left: 100px;
+    margin-top: 10px;
+    padding: 50px 0px;
+    flex: auto;
+  }
+  
+  .head {
+    color: #333;
+    text-align: center;
+    font-size: 20px;;
+    letter-spacing: 2px;
+    margin-left: 120px;
+    font-weight: bold;
+  }
+  
+  .my {
+    color: #333;
+    margin-left: 120px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .secondp {
+    color: #555;
+    margin-left: 120px;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .third {
+    color: #777;
+    line-height: 1.5;
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: 200;
+  }
+  
+  .secondline {
+    border-style: solid;
+    width: 750px;
+    margin: 5px 0px 5px 20px;
+  }
+  
+  .pro {
+    margin-left: 120px;
+  }
+  
+  .button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .mail-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 50px;
+    color: black;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+    transition: background-color 0.3s ease;
+    margin-left: 20px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, font-weight 0.3s;
+    margin-top: 15px;
+
+    &:hover {
+      background-color: lightblue;
+    }
+  }
+  
+  .mail-button img {
+    margin-right: 8px;
+  }
+  
+  .button-text {
+    font-size: 14px;
+    font-weight: bold;
+    font-weight: 400;
+    line-height: 1.6;
+    padding: 7px;
+
+  }
+  .mail-icon {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    width: 30px;
+    height: 30px;
+    border-radius: 10%;
+    margin-top: 5px;
+  }
+
+  /*Second row....*/
+  .second-row{
+    margin-left: 200px;
+    
+  }
+  .card{
+    margin-bottom: 15px;
+  }
+
+ 
+.progress {
+    height: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .progress-bar {
+    background-color: #007bff;
+    width: 95%; 
+   
+  }
+  .progress-bar1{
+    background-color: #007bff;
+    width: 90%;
+  }
+  .progress-bar2{
+    background-color: #007bff;
+    width: 90%;
+  }
+  .progress-bar3{
+    background-color: #007bff;
+    width: 80%;
+  }
+  .progress-bar4{
+    background-color: #007bff;
+    width: 75%;
+  }
+  .progress-bar5{
+    background-color: #007bff;
+    width: 70%;
+  }
+
+
+
+.img-fluid{
+  height: 500px;
+  width: 100px;
+}
+.starbucks{
+  width: 300px;
+  height: 400px;
+  margin-left: 100px;
+}
+.self-title{
+  margin-top: 0px;
+}
+
+  
