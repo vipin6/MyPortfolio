@@ -3,27 +3,28 @@
 Welcome to the repository of my personal website! This project was built using React.js and consists of four main components: Home, About Me, Portfolio, and Contact Me. Additionally, a navigation bar is included to easily navigate between these sections. The project is styled using CSS for a clean and visually appealing user interface.
 
 **Project Overview**
+
 This personal website serves as a platform to showcase my skills, projects, and connect with visitors. It includes the following components:
 
-**Home:** The landing page that provides a brief introduction and welcome message.
+**1. Home:** The landing page that provides a brief introduction and welcome message.
 
-**About Me:** A section where I share information about myself, including my background, interests, and skills.
+**2. About Me:** A section where I share information about myself, including my background, interests, and skills.
 
-**Portfolio:** A collection of my notable projects, each with a description and link to view more details.
+**3. Portfolio:** A collection of my notable projects, each with a description and link to view more details.
 
-**Contact Me:** A page with contact information and a contact form to enable visitors to get in touch.
+**4. Contact Me:** A page with contact information and a contact form to enable visitors to get in touch.
 
-**Navigation Bar:** A fixed navigation bar at the top of the page that allows users to easily switch between sections.
+**5. Navigation Bar:** A fixed navigation bar at the top of the page that allows users to easily switch between sections.
 
 **Features**
 
-**Responsive Design:** The website is designed to be responsive and work well on various screen sizes, from desktop to mobile devices.
+**1. Responsive Design:** The website is designed to be responsive and work well on various screen sizes, from desktop to mobile devices.
 
-**Dynamic Content:** Content in each section is managed as React components, making it easy to update and maintain.
+**2. Dynamic Content:** Content in each section is managed as React components, making it easy to update and maintain.
 
-**Stylish UI:** CSS styles are used to enhance the visual appeal of the website and create an aesthetically pleasing user interface.
+**3. Stylish UI:** CSS styles are used to enhance the visual appeal of the website and create an aesthetically pleasing user interface.
 
-**Easy Navigation:** The navigation bar at the top of the page provides intuitive navigation between sections.
+**4. Easy Navigation:** The navigation bar at the top of the page provides intuitive navigation between sections.
 
 # Getting Started with Create React App
 
